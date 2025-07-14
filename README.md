@@ -1,6 +1,17 @@
-# Criando um Banco Digital com Java e Orientação a Objetos
+# Projeto de Programação Orientada a Objetos
 
-## 02/08/2021 - [Mentoria #1: Tire Suas Dúvidas Sobre Orientação a Objetos](https://www.youtube.com/watch?v=YS6ouOhkyNI)
+## Sobre o projeto:
+Esse projeto visa fazer uso dos pilares da orientação a objetos, a partir do codigo fornecido pelo professor **Venilton FalvoJr**,  
+* Como foi soliciatado para atender ao desafio, fiz a criação do atributo limite, que funciona como o cheque especial dos bancos,  
+  para que quando o saldo das contas corrente chegassem a zero ainda se pudesse realizar operações com base no limite disponivel.
+  
+* Fiz uso tambem de Exceções para capturar possiveis problemas, como por exemplo tentar fazer um deposito ou saque com valor negativo.
+
+* Criação de uma lista com as contas de bancos, sejam elas corrente ou poupança
+
+
+
+# Criando um Banco Digital com Java e Orientação a Objetos
 
 Desafio: Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário:
 “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).”
